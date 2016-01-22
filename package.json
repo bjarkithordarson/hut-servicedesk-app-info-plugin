@@ -1,5 +1,8 @@
 {
   "name": "hut-servicedesk-app-info-plugin",
-  "version": "0.0.1",
-  "main": "index.js"
+  "version": "0.0.13",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^2.2.0"
+  }
 }
